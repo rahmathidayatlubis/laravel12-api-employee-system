@@ -64,8 +64,8 @@ REST API untuk sistem pengelolaan data alumni yang dibangun dengan Laravel 12 da
 1. **Clone Repository**
 
 ```bash
-git clone <repository-url>
-cd alumni-api
+git clone https://github.com/rahmathidayatlubis/laravel12-api-employee-system.git
+cd direktori-projek
 ```
 
 2. **Install Dependencies**
